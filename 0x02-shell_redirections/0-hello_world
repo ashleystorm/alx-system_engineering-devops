@@ -1,2 +1,2 @@
 #!/bin/bash
-print f Hello, World\n
+echo Hello, World
